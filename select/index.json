@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "N.E.O.",
+  "base_artist": "CHAI",
+  "createdAt": "2025-12-02T18:49:43.144190Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "N.E.O.",
+      "artist": "Thomas Dolby",
+      "has_synced": false,
+      "path": "select/01_N.E.O._Thomas_Dolby.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "N.E.O.",
+      "artist": "Dolby, Thomas",
+      "has_synced": false,
+      "path": "select/02_N.E.O._Dolby,_Thomas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "N.E.O.",
+      "artist": "CHAI",
+      "has_synced": true,
+      "path": "select/03_N.E.O._CHAI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "N.E.O. (n.)",
+      "artist": "Pięć Dwa",
+      "has_synced": true,
+      "path": "select/04_N.E.O._(n.)_Pięć_Dwa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "vc n é o john mayer (rlx)",
+      "artist": "lalalaura",
+      "has_synced": true,
+      "path": "select/05_vc_n_é_o_john_mayer_(rlx)_lalalaura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "N.E.O.",
+      "artist": "CHAI",
+      "has_synced": false,
+      "path": "select/pl_01_N.E.O._CHAI.txt"
+    }
+  ]
+}
